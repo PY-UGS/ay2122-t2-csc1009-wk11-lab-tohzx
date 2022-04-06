@@ -1,0 +1,2 @@
+class invalidTimeError(Exception):
+    pass
